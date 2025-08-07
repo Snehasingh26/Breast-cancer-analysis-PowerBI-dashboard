@@ -31,7 +31,7 @@ This Power BI dashboard visualizes breast cancer data to explore survival trends
 ### 📌 Tumor Size by Age Group
 
 Shows how tumor size varies with age across patients.
-![Tumor Size by Age](images/tumor-size-by-age.png)
+![Tumor Size by Age]
 
 ---
 ### 📌 Count of Survival Months by Age
