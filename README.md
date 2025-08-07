@@ -1,3 +1,4 @@
+![logo](https://github.com/Snehasingh26/Breast-cancer-analysis-PowerBI-dashboard/blob/main/Dashboard_overview.png)
 # 🧠 Breast Cancer Analysis Dashboard
 
 This Power BI dashboard visualizes breast cancer data to explore survival trends, tumor characteristics, and patient demographics. It provides meaningful insights that can assist healthcare professionals and researchers in identifying key patterns.
