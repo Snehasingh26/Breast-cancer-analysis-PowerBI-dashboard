@@ -84,13 +84,6 @@ Sum of lymph nodes examined across different age groups.
 
 ---
 
-## 📁 PBIX File
-
-The dashboard PBIX file can be downloaded [here](https://drive.google.com/your_shared_link)  
-> *(Replace the above link with your actual shared Google Drive or OneDrive link)*
-
----
-
 ## 🧾 License
 
 This project is open for academic and research usage. If you use the dashboard or visuals, please give appropriate credit.
